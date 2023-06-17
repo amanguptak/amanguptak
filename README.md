@@ -1,4 +1,4 @@
-[!MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)
+[[!MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)]
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="center" alt="coder" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
