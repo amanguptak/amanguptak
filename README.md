@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="coder" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="center" alt="coder" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanguptak" alt="amanguptak" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
