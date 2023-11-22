@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **imaman9294@gmail.com**
 
-- 📄 Know about my experiences [https://amangupta-resume.tiiny.site/](https://amangupta-resume.tiiny.site/)
-
 - ⚡ Fun fact **I love Anime**
 
 <h3 align="left">Connect with me:</h3>
