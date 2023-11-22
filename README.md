@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DEVOps**
 
-- 👨‍💻 All of my projects are available at [https://amanportfoliov2.vercel.app/](https://amanportfoliov2.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://amansportfolio-imamangupta600-gmailcom.vercel.app])
 
 - 💬 Ask me about **React,Nextjs,Expressjs,Nodejs,MongoDb**
 
