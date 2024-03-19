@@ -1,7 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="coder" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="center" alt="coder" width="100%" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+ <div class="bio">
+        <h2>🚀 <strong>Full Stack Web Developer | Digital Solutions Architect</strong> 🌐</h2>
+        <p>Hello, world! 👋 I’m a forward-thinking Full Stack Web Developer with a robust skill set in both front-end and back-end technologies, passionate about building seamless digital experiences from concept to deployment. My expertise includes:</p>
+        <ul>
+            <li><strong>Front-End Technologies:</strong> JavaScript 💻, HTML 📄, CSS 🎨, React ⚛️, Next.js 🌟, Tailwind CSS 🌬, Redux Toolkit 🔧, TypeScript 📘</li>
+            <li><strong>Back-End Technologies:</strong> Node.js 🌲, Express.js 🚂, Prisma 🛠, with a strong foundation in building and managing Microservices Architecture 🌐</li>
+            <li><strong>Database Management:</strong> Proficient in MongoDB 🍃</li>
+            <li><strong>Tools & Platforms:</strong> Skilled in using Postman 📬 for API development and testing</li>
+        </ul>
+        <p>🔗 <strong>Integrating Payment Systems:</strong> I specialize in integrating secure and efficient payment solutions into web applications, enhancing user transactions and business operations. 💳</p>
+        <p>📈 <strong>Scaling Web Applications:</strong> My experience extends to optimizing and scaling web applications to handle growing user demands, ensuring high availability, and maintaining smooth performance under load. 🚀</p>
+        <p>🧩 <strong>Microservices Architecture:</strong> I excel in designing and implementing microservices-based architectures, facilitating better scalability, faster development cycles, and more resilient systems.</p>
+        <p>I am committed to continuous learning and applying the latest technologies to solve real-world problems. My goal is to develop intuitive, efficient, and impactful web applications that drive user engagement and success.</p>
+        <p>Let’s collaborate on innovative projects that challenge the status quo and push the boundaries of what’s possible in web technology. Together, we can create digital solutions that make a difference! 💡✨</p>
+    </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanguptak" alt="amanguptak" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
