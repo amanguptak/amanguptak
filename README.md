@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **DEVOps**
 
-- 👨‍💻 All of my projects are available at [https://amansportfolio-imamangupta600-gmailcom.vercel.app])
+- 👨‍💻 All of my projects are available at [https://amangupta.site])
 
 - 💬 Ask me about **React,Nextjs,Expressjs,Nodejs,MongoDb**
 
