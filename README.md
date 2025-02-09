@@ -13,7 +13,7 @@
         </ul>
         <p>🔗 <strong>Integrating Payment Systems:</strong> I specialize in integrating secure and efficient payment solutions into web applications, enhancing user transactions and business operations. 💳</p>
         <p>📈 <strong>Scaling Web Applications:</strong> My experience extends to optimizing and scaling web applications to handle growing user demands, ensuring high availability, and maintaining smooth performance under load. 🚀</p>
-        <p>🧩 <strong>Microservices Architecture:</strong> I excel in designing and implementing microservices-based architectures, facilitating better scalability, faster development cycles, and more resilient systems.</p>
+        <p>🧩</p>
         <p>I am committed to continuous learning and applying the latest technologies to solve real-world problems. My goal is to develop intuitive, efficient, and impactful web applications that drive user engagement and success.</p>
         <p>Let’s collaborate on innovative projects that challenge the status quo and push the boundaries of what’s possible in web technology. Together, we can create digital solutions that make a difference! 💡✨</p>
     </div>
