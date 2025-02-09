@@ -8,7 +8,7 @@
         <ul>
             <li><strong>Front-End Technologies:</strong> JavaScript 💻, HTML 📄, CSS 🎨, React ⚛️, Next.js 🌟, Tailwind CSS 🌬, Redux Toolkit 🔧, TypeScript 📘</li>
             <li><strong>Back-End Technologies:</strong> Node.js 🌲, Express.js 🚂, Prisma 🛠, with a strong foundation in building and managing Microservices Architecture 🌐</li>
-            <li><strong>Database Management:</strong> Proficient in MongoDB 🍃</li>
+          
             <li><strong>Tools & Platforms:</strong> Skilled in using Postman 📬 for API development and testing</li>
         </ul>
         <p>🔗 <strong>Integrating Payment Systems:</strong> I specialize in integrating secure and efficient payment solutions into web applications, enhancing user transactions and business operations. 💳</p>
