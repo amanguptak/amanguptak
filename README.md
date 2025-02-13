@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amangupta.site])
 
-- 💬 Ask me about **React,Nextjs,Expressjs,Nodejs,MongoDb**
+- 💬 Ask me about **React,Nextjs,Expressjs,Nodejs**
 
 - 📫 How to reach me **imaman9294@gmail.com**
 
