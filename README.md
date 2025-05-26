@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
-<h3 align="center">A passionate Web developer.</h3>
+<h3 align="center">A Passionate Software Developer.</h3>
 <img align="center" alt="coder" width="100%" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
  <div class="bio">
-        <h2>🚀 <strong>Full Stack Web Developer</h2>
+        <h2>🚀 <strong>Full Stack Developer </h2>
         <p>Hello, world! 👋 I’m a forward-thinking Full Stack Web Developer with a robust skill set in both front-end and back-end technologies, passionate about building seamless digital experiences from concept to deployment. My expertise includes:</p>
         <ul>
             <li><strong>Front-End Technologies:</strong> JavaScript 💻, HTML 📄, CSS 🎨, React ⚛️, Next.js 🌟, Tailwind CSS 🌬, Redux Toolkit 🔧, TypeScript 📘</li>
