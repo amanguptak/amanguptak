@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **DEVOps**
 
-- 👨‍💻 All of my projects are available at [https://amangupta.site])
+- 👨‍💻 All of my projects are available at [https://amangdev.netlify.app/])
 
 - 💬 Ask me about **React,Nextjs,Expressjs,Nodejs**
 
@@ -40,6 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanguptak&show_icons=true&locale=en&layout=compact" alt="amanguptak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanguptak&show_icons=true&locale=en" alt="amanguptak" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanguptak&" alt="amanguptak" /></p>
