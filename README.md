@@ -6,7 +6,7 @@
         <h2>🚀 <strong>Full Stack Developer </h2>
         <p>Hello, world! 👋 I’m a forward-thinking Full Stack Web Developer with a robust skill set in both front-end and back-end technologies, passionate about building seamless digital experiences from concept to deployment. My expertise includes:</p>
         <ul>
-            <li><strong>Front-End Technologies:</strong> JavaScript 💻, HTML 📄, CSS 🎨, React ⚛️, Next.js 🌟, Tailwind CSS 🌬, Redux Toolkit 🔧, TypeScript 📘</li>
+            <li><strong>Front-End Technologies:</strong> JavaScript 💻, HTML 📄, CSS 🎨, React ⚛️, Next.js 🌟, Tailwind CSS 🌬, React Native , Redux Toolkit 🔧, TypeScript 📘</li>
             <li><strong>Back-End Technologies:</strong> Node.js 🌲, Express.js 🚂, Prisma 🛠, with a strong foundation in building and managing Microservices Architecture 🌐</li>
              <li><strong>Database Management</strong>  🍃</li>
             <li><strong>Tools & Platforms:</strong> Skilled in using Postman 📬 for API development and testing</li>
@@ -42,4 +42,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanguptak&" alt="amanguptak" /></p>
+
